@@ -44,8 +44,23 @@ git clone https://github.com/seuusuario/Gamer_Death_District.git
 2. Abra o projeto na Godot Engine 4.6
 3. Execute a cena principal
 
-## 👨‍💻 Autores
 
-| [<img src="https://github.com/W1ll-Amorim.png" width=115><br><sub>Wiliam de Amorim</sub>](https://github.com/W1ll-Amorim) | [<img src="https://github.com/Victoroliveira07.png" width=115><br><sub>João Victor</sub>](https://github.com/Victoroliveira07) | [<img src="https://github.com/LilNavaHoods.png" width=115><br><sub>Lohan da Silva</sub>](https://github.com/LilNavaHoods) |
-| :---: | :---: | :---: |
-| [<img src="https://github.com/bielgb13.png" width=115><br><sub>Gabriel Ferreira</sub>](https://github.com/bielgb13) | [<img src="https://github.com/allawder09-source.png" width=115><br><sub>Allan Fernandes</sub>](https://github.com/allawder09-source) | [<img src="https://github.com/davifsena-nv.png" width=115><br><sub>Davi Sena</sub>](https://github.com/davifsena-nv) |
+
+## 👨‍💻 Autor
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://github.com/W1ll-Amorim">
+        <img src="https://github.com/W1ll-Amorim.png" width="115"><br>
+        <sub><b>Wiliam de Amorim</b></sub>
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/LilNavaHoods">
+        <img src="https://github.com/LilNavaHoods.png" width="115"><br>
+        <sub><b>Lohan da Silva</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
